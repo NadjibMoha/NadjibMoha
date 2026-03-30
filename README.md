@@ -1,13 +1,13 @@
 # Hi, I'm Nadjibou Mohamed Taybou 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadjibou-taybou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadjibou-mohamed-taybou-76616b313/)
 [![GitHub followers](https://img.shields.io/github/followers/NadjibMoha?style=flat&label=Follow&logo=github)](https://github.com/NadjibMoha)
 ![Location](https://img.shields.io/badge/Accra%2C%20Ghana-🇬🇭-lightgrey?style=flat)
 ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20French-blue?style=flat)
 
 ---
 
-Computing student and hands-on Technology professional based in Accra, Ghana. I build data pipelines, deploy ERP systems, and ship full-stack applications. Currently leading technical operations at a multi-branch retail business — managing a Dockerized ERPNext deployment and real-time Power BI analytics. Targeting roles in **Data Analytics**, **Data Engineering**, and **IT/Cybersecurity Operations**.
+Computing student and hands-on Technology professional based in Accra, Ghana. I build data pipelines, deploy ERP systems, and ship full-stack applications. Currently leading technical operations at a multi-branch retail business, managing a Dockerized ERPNext deployment and real-time Power BI analytics. Targeting roles in **Data Analytics**, **Data Engineering**, and **IT/Cybersecurity Operations**.
 
 ---
 
@@ -112,7 +112,7 @@ Web app for generating, customizing, and bulk-exporting product labels with barc
 
 ## 💼 Experience
 
-**Technical Operations Lead** — Bizo Tech Trading Co., Ltd *(Sep 2025 – Present)*
+**Technical Operations Lead** *(Sep 2025 – Present)*
 - Deployed and manage a Dockerized ERPNext instance on Ubuntu Linux across 4+ branches
 - Built real-time Power BI dashboards integrated with ERPNext for sales and supply chain analytics
 - Automated inventory valuation and financial reporting; administer VPS and Linux environments
@@ -129,5 +129,5 @@ Web app for generating, customizing, and bulk-exporting product labels with barc
 ## 📬 Get in Touch
 
 - 📧 [mohamednadjibou10@gmail.com](mailto:mohamednadjibou10@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/nadjibou-taybou)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadjibou-mohamed-taybou-76616b313/)
 - 🐙 [GitHub](https://github.com/NadjibMoha)
