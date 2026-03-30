@@ -28,6 +28,7 @@ Computing student and hands-on Technology professional based in Accra, Ghana. I 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 **DevOps & Infrastructure**
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu%2FLinux-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS%20Admin-333333?style=flat&logo=serverfault&logoColor=white)
