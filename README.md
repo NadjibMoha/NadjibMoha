@@ -7,7 +7,7 @@
 
 ---
 
-Computing student and hands-on Technology professional based in Accra, Ghana. I build data pipelines, deploy ERP systems, and ship full-stack applications. Currently leading technical operations at a multi-branch retail business, managing a Dockerized ERPNext deployment and real-time Power BI analytics. Targeting roles in **Data Analytics**, **Data Engineering**, and **IT/Cybersecurity Operations**.
+Computing student and hands-on Technology professional. I build data pipelines, deploy ERP systems, and ship full-stack applications. Currently leading technical operations at a multi-branch retail business, managing a Dockerized ERPNext deployment and real-time Power BI analytics. Targeting roles in **Data Analytics**, **Data Engineering**, and **IT/Cybersecurity Operations**.
 
 ---
 
@@ -87,20 +87,6 @@ flowchart LR
     SC -->|Vote Receipt| API
     API -->|Blockchain Receipt| UI
 ```
-
----
-
-### 🏪 [ERPNext Multi-Branch Deployment](https://github.com/NadjibMoha/erpnext-multi-branch)
-> *Docker · Ubuntu · ERPNext · MariaDB*
-
-Dockerized ERPNext deployment managing inventory and operations across 4+ retail branches, with automated FIFO/Moving Average inventory valuation, custom DocTypes, and Power BI integration for real-time dashboards. Running in production at Bizo Tech Trading Co.
-
----
-
-### 📊 [Sales & Supply Chain BI Dashboard](https://github.com/NadjibMoha/sales-bi-dashboard)
-> *Power BI · ERPNext API · Advanced Excel*
-
-Multi-page Power BI dashboard connected live to ERPNext, tracking top-selling SKUs, branch performance, and regional sales trends. Reduced manual reporting from hours to near-real-time automated refresh.
 
 ---
 
